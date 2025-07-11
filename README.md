@@ -14,7 +14,7 @@ A NestJS backend API that accepts user profile data and returns a personalized l
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/liam-73/life-insurance-api.git
+git clone https://github.com/liam-73/life-insurance-api.git server
 cd server
 cp .env.example .env
 ```
